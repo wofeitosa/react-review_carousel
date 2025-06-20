@@ -33,7 +33,7 @@ Um projeto de **depoimentos interativos** criado com **React.js + Vite**. Os usu
 git clone https://github.com/wofeitosa/react-review_carousel.git
 
 # Acesse a pasta
-cd react-reviews
+cd react-review_carousel
 
 # Instale as dependências
 npm install
