@@ -2,7 +2,7 @@
 
 Um projeto de **depoimentos interativos** criado com **React.js + Vite**. Os usuários podem navegar entre perfis, visualizar descrições e até receber um depoimento aleatório com um clique em “Me surpreenda”.
 
-![Preview do projeto](./public/review-carousel)
+![Preview do projeto](./public/review-carousel.png)
 
 ---
 
